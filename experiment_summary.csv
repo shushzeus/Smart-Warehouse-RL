@@ -1,0 +1,6 @@
+Algorithm,Category,Success Rate (%),Avg Return,Std Return,Avg Steps,Std Steps,Exec/Eval Time (s)
+Random Baseline,Baseline,0.0,-174.52,24.096671969381994,100.0,0.0,0.05530779999753577
+BFS (Uninformed),Classical Search,100.0,,0.0,18.0,0.0,0.0002806000011332799
+A* (Manhattan),Classical Search,100.0,,0.0,18.0,0.0,0.00016709999908925965
+Tabular Q-Learning,Reinforcement Learning,100.0,144.0,0.0,18.0,0.0,0.02863000000070315
+PPO (SB3 Actor-Critic),Reinforcement Learning,100.0,144.0,0.0,18.0,0.0,0.3193397000031837
